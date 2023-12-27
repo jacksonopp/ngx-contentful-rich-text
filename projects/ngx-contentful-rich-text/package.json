@@ -1,14 +1,14 @@
 {
-  "name": "ngx-contentful-rich-text",
+  "name": "@jacksonopp/ngx-contentful-rich-text",
   "version": "0.8.0",
-  "description": "Angular renderer for the Contentful rich text field type",
+  "description": "Angular renderer for the Contentful rich text field type, forked by jacksonopp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kgajera/ngx-contentful-rich-text.git"
+    "url": "https://github.com/jacksonopp/ngx-contentful-rich-text.git"
   },
   "author": {
-    "name": "Kishan Gajera",
-    "url": "http://github.com/kgajera"
+    "name": "Jackson Oppenheim",
+    "url": "http://github.com/jacksonopp"
   },
   "keywords": [
     "angular",
